@@ -1,0 +1,15 @@
+{
+  "name": "psswd9",
+  "module": "index.js",
+  "type": "module",
+  "bin": {
+    "psswd9": "./index.js"
+  },
+  "scripts": {
+    "dev": "bun run --watch index.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "latest"
+  }
+}
